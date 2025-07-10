@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\bin\Debug\net9.0\Singleton.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\bin\Debug\net9.0\Singleton.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\bin\Debug\net9.0\Singleton.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\bin\Debug\net9.0\Singleton.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\Singleton\obj\Debug\net9.0\ref\Singleton.dll

@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\bin\Debug\net9.0\RealWorldExampleLoadBalancer.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\bin\Debug\net9.0\RealWorldExampleLoadBalancer.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\bin\Debug\net9.0\RealWorldExampleLoadBalancer.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\bin\Debug\net9.0\RealWorldExampleLoadBalancer.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\bin\Debug\net9.0\RealWorldExampleLoadBalancer.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\refint\RealWorldExampleLoadBalancer.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\RealWorldExampleLoadBalancer.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational patterns\Singleton\Singleton\RealWorldExampleLoadBalancer\obj\Debug\net9.0\ref\RealWorldExampleLoadBalancer.dll
