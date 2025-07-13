@@ -11,25 +11,6 @@ It is commonly used when:
 - You want to **combine features** flexibly without creating a rigid class hierarchy.
 ---
 
-# 🏨 Real-World Example: Hotel Room Booking Add-ons
-
-In this example, we simulate a hotel booking system where guests can choose optional services such as:
-
-- 🍽️ Breakfast  
-- 🧘 Spa Access  
-- 🚗 Airport Pickup  
-
-Each add-on **decorates** the room with additional behavior (description and cost) **without changing the base room logic**.
-
----
-
-## ✅ Key Features
-
-- ✅ Flexible service combinations (compose at runtime)
-- ✅ Uses modern C# features (primary constructors, XML docs)
-- ✅ Open/Closed Principle: no need to modify existing room or service classes
-- ✅ Easy to extend with more services (e.g., Wi-Fi, Laundry, Late Checkout)
-
 ## 🧠 Use Cases of the Decorator Pattern
 
 ```
