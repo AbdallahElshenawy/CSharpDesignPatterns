@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C0749A2-AEE7-4FFB-8FEE-F10805B4854A}|RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\creational patterns\\singleton\\singleton\\realworldexampleloadbalancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C0749A2-AEE7-4FFB-8FEE-F10805B4854A}|RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\creational patterns\\singleton\\realworldexampleloadbalancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C0749A2-AEE7-4FFB-8FEE-F10805B4854A}|RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj|solutionrelative:realworldexampleloadbalancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\RealWorldExampleLoadBalancer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\RealWorldExampleLoadBalancer\\Program.cs",
               "RelativeDocumentMoniker": "RealWorldExampleLoadBalancer\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\RealWorldExampleLoadBalancer\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\RealWorldExampleLoadBalancer\\Program.cs",
               "RelativeToolTip": "RealWorldExampleLoadBalancer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T11:33:56.586Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\bin\Debug\net9.0\RealWorldExampleHotelRoomBooking.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\bin\Debug\net9.0\RealWorldExampleHotelRoomBooking.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\bin\Debug\net9.0\RealWorldExampleHotelRoomBooking.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\bin\Debug\net9.0\RealWorldExampleHotelRoomBooking.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\bin\Debug\net9.0\RealWorldExampleHotelRoomBooking.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\refint\RealWorldExampleHotelRoomBooking.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\RealWorldExampleHotelRoomBooking.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\RealWorldExampleHotelRoomBooking\obj\Debug\net9.0\ref\RealWorldExampleHotelRoomBooking.dll

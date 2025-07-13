@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton\\Singleton.csproj": {}
+    "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton\\Singleton.csproj": {
+    "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton\\Singleton.csproj",
+        "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\Singleton\\obj\\",
+        "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

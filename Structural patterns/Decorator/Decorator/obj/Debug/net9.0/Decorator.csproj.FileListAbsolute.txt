@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\bin\Debug\net9.0\Decorator.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\bin\Debug\net9.0\Decorator.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\bin\Debug\net9.0\Decorator.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\bin\Debug\net9.0\Decorator.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\bin\Debug\net9.0\Decorator.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\refint\Decorator.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\Decorator.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural patterns\Decorator\Decorator\Decorator\obj\Debug\net9.0\ref\Decorator.dll

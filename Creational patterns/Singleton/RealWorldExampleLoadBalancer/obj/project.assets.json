@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj",
       "projectName": "RealWorldExampleLoadBalancer",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\RealWorldExampleLoadBalancer\\RealWorldExampleLoadBalancer.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\Singleton\\RealWorldExampleLoadBalancer\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational patterns\\Singleton\\RealWorldExampleLoadBalancer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
