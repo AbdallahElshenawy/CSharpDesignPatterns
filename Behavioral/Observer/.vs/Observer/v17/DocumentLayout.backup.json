@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral patterns\\Observer\\Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EE9B13F-6467-4648-B098-90A12349F5C4}|RealWorldExampleCourseSubscriptionSystem\\RealWorldExampleCourseSubscriptionSystem.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\behavioral patterns\\observer\\observer\\realworldexamplecoursesubscriptionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EE9B13F-6467-4648-B098-90A12349F5C4}|RealWorldExampleCourseSubscriptionSystem\\RealWorldExampleCourseSubscriptionSystem.csproj|solutionrelative:realworldexamplecoursesubscriptionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803B172-B7B3-4E09-B738-AEF110471EC0}|Observer\\Observer.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\behavioral patterns\\observer\\observer\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803B172-B7B3-4E09-B738-AEF110471EC0}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral patterns\\Observer\\Observer\\RealWorldExampleCourseSubscriptionSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RealWorldExampleCourseSubscriptionSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral patterns\\Observer\\Observer\\RealWorldExampleCourseSubscriptionSystem\\Program.cs",
+              "RelativeToolTip": "RealWorldExampleCourseSubscriptionSystem\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:27:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral patterns\\Observer\\Observer\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral patterns\\Observer\\Observer\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:46:53.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
