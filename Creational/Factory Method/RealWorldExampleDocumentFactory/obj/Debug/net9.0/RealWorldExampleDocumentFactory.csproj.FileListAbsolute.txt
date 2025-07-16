@@ -1,0 +1,30 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\refint\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\ref\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\bin\Debug\net9.0\RealWorldExampleDocumentFactory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\refint\RealWorldExampleDocumentFactory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\RealWorldExampleDocumentFactory.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Factory Method\RealWorldExampleDocumentFactory\obj\Debug\net9.0\ref\RealWorldExampleDocumentFactory.dll
