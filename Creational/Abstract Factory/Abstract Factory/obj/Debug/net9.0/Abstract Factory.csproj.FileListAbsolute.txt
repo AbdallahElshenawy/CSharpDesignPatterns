@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\refint\Abstract Factory.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\Abstract Factory\obj\Debug\net9.0\ref\Abstract Factory.dll

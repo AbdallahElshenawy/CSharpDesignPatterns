@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory", "Abstract Factory\Abstract Factory.csproj", "{A0B6AA6B-3E67-4B21-B2D8-CB74F3073985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldExampleGameWorld", "RealWorldExampleGameWorld\RealWorldExampleGameWorld.csproj", "{CECE0EC0-5F8F-4E2D-A356-BFB06D5EDDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B6AA6B-3E67-4B21-B2D8-CB74F3073985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B6AA6B-3E67-4B21-B2D8-CB74F3073985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B6AA6B-3E67-4B21-B2D8-CB74F3073985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B6AA6B-3E67-4B21-B2D8-CB74F3073985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECE0EC0-5F8F-4E2D-A356-BFB06D5EDDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECE0EC0-5F8F-4E2D-A356-BFB06D5EDDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECE0EC0-5F8F-4E2D-A356-BFB06D5EDDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECE0EC0-5F8F-4E2D-A356-BFB06D5EDDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {812F92EB-479A-4907-8074-B3BCC98AACF7}
+	EndGlobalSection
+EndGlobal

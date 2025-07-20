@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\bin\Debug\net9.0\RealWorldExampleGameWorld.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\bin\Debug\net9.0\RealWorldExampleGameWorld.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\bin\Debug\net9.0\RealWorldExampleGameWorld.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\bin\Debug\net9.0\RealWorldExampleGameWorld.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\bin\Debug\net9.0\RealWorldExampleGameWorld.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\refint\RealWorldExampleGameWorld.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\RealWorldExampleGameWorld.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Abstract Factory\Abstract Factory\RealWorldExampleGameWorld\obj\Debug\net9.0\ref\RealWorldExampleGameWorld.dll
