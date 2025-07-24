@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Structural\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CC7184-E02B-4264-BAAC-EAFC60576C7F}|RealWorldExampleCourseCurriculumStructure\\RealWorldExampleCourseCurriculumStructure.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\structural\\composite\\realworldexamplecoursecurriculumstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CC7184-E02B-4264-BAAC-EAFC60576C7F}|RealWorldExampleCourseCurriculumStructure\\RealWorldExampleCourseCurriculumStructure.csproj|solutionrelative:realworldexamplecoursecurriculumstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A521A0-899E-4713-8EA3-20753F616E5C}|Composite\\Composite.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\structural\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A521A0-899E-4713-8EA3-20753F616E5C}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Structural\\Composite\\RealWorldExampleCourseCurriculumStructure\\Program.cs",
+              "RelativeDocumentMoniker": "RealWorldExampleCourseCurriculumStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Structural\\Composite\\RealWorldExampleCourseCurriculumStructure\\Program.cs",
+              "RelativeToolTip": "RealWorldExampleCourseCurriculumStructure\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:06:02.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Structural\\Composite\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Structural\\Composite\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:50:12.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
