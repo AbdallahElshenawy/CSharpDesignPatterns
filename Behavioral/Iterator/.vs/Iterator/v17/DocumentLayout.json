@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral\\Iterator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0710F815-2B20-4209-B571-A5379B64E851}|RealWorldExampleSkipTwoIterator\\RealWorldExampleSkipTwoIterator.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\behavioral\\iterator\\realworldexampleskiptwoiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0710F815-2B20-4209-B571-A5379B64E851}|RealWorldExampleSkipTwoIterator\\RealWorldExampleSkipTwoIterator.csproj|solutionrelative:realworldexampleskiptwoiterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0853A1-9343-4296-A5BA-1E8CF658A13C}|Iterator\\Iterator.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\behavioral\\iterator\\iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0853A1-9343-4296-A5BA-1E8CF658A13C}|Iterator\\Iterator.csproj|solutionrelative:iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral\\Iterator\\RealWorldExampleSkipTwoIterator\\Program.cs",
+              "RelativeDocumentMoniker": "RealWorldExampleSkipTwoIterator\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral\\Iterator\\RealWorldExampleSkipTwoIterator\\Program.cs",
+              "RelativeToolTip": "RealWorldExampleSkipTwoIterator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:30:08.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral\\Iterator\\Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Behavioral\\Iterator\\Iterator\\Program.cs",
+              "RelativeToolTip": "Iterator\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA5wGQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:58:39.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

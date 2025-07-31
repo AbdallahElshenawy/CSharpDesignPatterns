@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\bin\Debug\net9.0\RealWorldExampleCustomIterableCollection.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\bin\Debug\net9.0\RealWorldExampleCustomIterableCollection.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\bin\Debug\net9.0\RealWorldExampleCustomIterableCollection.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\bin\Debug\net9.0\RealWorldExampleCustomIterableCollection.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\bin\Debug\net9.0\RealWorldExampleCustomIterableCollection.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\refint\RealWorldExampleCustomIterableCollection.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\RealWorldExampleCustomIterableCollection.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Behavioral\Iterator\RealWorldExampleSkipTwoIterator\obj\Debug\net9.0\ref\RealWorldExampleCustomIterableCollection.dll
