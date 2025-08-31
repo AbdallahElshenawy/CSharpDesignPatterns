@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\bin\Debug\net9.0\Prototype.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\bin\Debug\net9.0\Prototype.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\bin\Debug\net9.0\Prototype.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\bin\Debug\net9.0\Prototype.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\bin\Debug\net9.0\Prototype.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\refint\Prototype.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\Prototype.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\Prototype\obj\Debug\net9.0\ref\Prototype.dll

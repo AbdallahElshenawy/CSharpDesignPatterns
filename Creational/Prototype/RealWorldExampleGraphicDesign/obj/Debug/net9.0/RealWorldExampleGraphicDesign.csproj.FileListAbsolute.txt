@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\bin\Debug\net9.0\RealWorldExampleGraphicDesign.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\bin\Debug\net9.0\RealWorldExampleGraphicDesign.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\bin\Debug\net9.0\RealWorldExampleGraphicDesign.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\bin\Debug\net9.0\RealWorldExampleGraphicDesign.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\bin\Debug\net9.0\RealWorldExampleGraphicDesign.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\refint\RealWorldExampleGraphicDesign.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\RealWorldExampleGraphicDesign.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Prototype\Prototype\RealWorldExampleGraphicDesign\obj\Debug\net9.0\ref\RealWorldExampleGraphicDesign.dll
