@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\bin\Debug\net9.0\RealWorldExampleVehicleBuilder.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\bin\Debug\net9.0\RealWorldExampleVehicleBuilder.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\bin\Debug\net9.0\RealWorldExampleVehicleBuilder.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\bin\Debug\net9.0\RealWorldExampleVehicleBuilder.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\bin\Debug\net9.0\RealWorldExampleVehicleBuilder.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\refint\RealWorldExampleVehicleBuilder.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\RealWorldExampleVehicleBuilder.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Creational\Builder\RealWorldExampleVehicleBuilder\obj\Debug\net9.0\ref\RealWorldExampleVehicleBuilder.dll

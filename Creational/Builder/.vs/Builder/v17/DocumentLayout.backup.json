@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational\\Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48037EFD-C86F-4D7F-B40E-B2542BA52764}|RealWorldExampleVehicleBuilder\\RealWorldExampleVehicleBuilder.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\creational\\builder\\realworldexamplevehiclebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48037EFD-C86F-4D7F-B40E-B2542BA52764}|RealWorldExampleVehicleBuilder\\RealWorldExampleVehicleBuilder.csproj|solutionrelative:realworldexamplevehiclebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3698736-5B2F-4A2A-8D5E-445786B82FF2}|Builder\\Builder.csproj|c:\\users\\pc\\onedrive\\desktop\\designpatterns\\csharpdesignpatterns\\creational\\builder\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3698736-5B2F-4A2A-8D5E-445786B82FF2}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational\\Builder\\RealWorldExampleVehicleBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "RealWorldExampleVehicleBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational\\Builder\\RealWorldExampleVehicleBuilder\\Program.cs",
+              "RelativeToolTip": "RealWorldExampleVehicleBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:26:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational\\Builder\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Desktop\\DesignPatterns\\CSharpDesignPatterns\\Creational\\Builder\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T07:00:26.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
