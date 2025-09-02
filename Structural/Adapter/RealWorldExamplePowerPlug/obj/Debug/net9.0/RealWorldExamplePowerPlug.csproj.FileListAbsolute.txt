@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\bin\Debug\net9.0\RealWorldExamplePowerPlug.exe
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\bin\Debug\net9.0\RealWorldExamplePowerPlug.deps.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\bin\Debug\net9.0\RealWorldExamplePowerPlug.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\bin\Debug\net9.0\RealWorldExamplePowerPlug.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\bin\Debug\net9.0\RealWorldExamplePowerPlug.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.sourcelink.json
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\refint\RealWorldExamplePowerPlug.dll
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.pdb
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\RealWorldExamplePowerPlug.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\DesignPatterns\CSharpDesignPatterns\Structural\Adapter\Adapter\RealWorldExamplePowerPlug\obj\Debug\net9.0\ref\RealWorldExamplePowerPlug.dll
